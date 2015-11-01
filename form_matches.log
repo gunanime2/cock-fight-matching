@@ -1,0 +1,7 @@
+Line 24: Class MSAdodcLib.Adodc of control adodc_entries was not a loaded control class.
+Line 71: Class MSAdodcLib.Adodc of control adodc_matcher was not a loaded control class.
+Line 118: Class MSAdodcLib.Adodc of control adodc_events was not a loaded control class.
+Line 165: Class MSAdodcLib.Adodc of control adodc_matches was not a loaded control class.
+Line 228: Class MSDataGridLib.DataGrid of control datagrid_matches was not a loaded control class.
+Line 346: Class MSDataListLib.DataCombo of control datacombo_events was not a loaded control class.
+Line 368: Class MSAdodcLib.Adodc of control adodc_matcher2 was not a loaded control class.

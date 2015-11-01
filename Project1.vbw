@@ -1,0 +1,5 @@
+mdi_main = 50, 50, 1021, 454, , 0, 0, 0, 0, C
+form_dashboard = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+form_new_event = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+form_settings = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+Module1 = 25, 25, 904, 491, 

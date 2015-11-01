@@ -1,0 +1,11 @@
+Line 21: Class MSAdodcLib.Adodc of control adodc_matching_settings_master was not a loaded control class.
+Line 68: Class MSAdodcLib.Adodc of control adodc_matching_settings was not a loaded control class.
+Line 211: Class MSDataListLib.DataCombo of control datacombo_sixth_criteria was not a loaded control class.
+Line 236: Class MSDataListLib.DataCombo of control datacombo_fifth_criteria was not a loaded control class.
+Line 261: Class MSDataListLib.DataCombo of control datacombo_fourth_criteria was not a loaded control class.
+Line 286: Class MSDataListLib.DataCombo of control datacombo_third_criteria was not a loaded control class.
+Line 311: Class MSDataListLib.DataCombo of control datacombo_second_criteria was not a loaded control class.
+Line 336: Class MSDataListLib.DataCombo of control datacombo_first_criteria was not a loaded control class.
+Line 361: Class MSDataGridLib.DataGrid of control datagrid_matching_settings was not a loaded control class.
+Line 535: Class MSDataGridLib.DataGrid of control DataGrid1 was not a loaded control class.
+Line 667: Class MSDataListLib.DataCombo of control datacombo_events was not a loaded control class.
